@@ -74,7 +74,6 @@ packages=(
   jdk11-openjdk
   jdk8-openjdk
   ruby-benchmark
-  bbot
   python
   python-pip
   python-pipx
