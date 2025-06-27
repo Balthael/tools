@@ -18,10 +18,10 @@ packages=(
   python-pip python-pipx python-pwntools amass dnsutils pavucontrol
   pipewire-pulse pipewire-audio pipewire-alsa wireplumber pipewire flameshot
   cadaver vlc chisel wireshark-qt dbeaver dnsenum enum4linux-ng ghidra
-  gobuster tcpdump freerdp hashid ldapdomaindump openldap ruby-resolv-replace
+  gobuster tcpdump freerdp hashid google-chrome openldap ruby-resolv-replace
   ruby-getoptlong whatweb rlwrap smbmap moreutils libfaketime ntp
   nvidia nvidia-utils nvidia-settings opencl-nvidia yay code rustscan
-  perl-image-exiftool proxychains-ng spotify dpkg
+  perl-image-exiftool proxychains-ng spotify dpkg locate
 )
 
 # 3. Detectar paquetes faltantes
